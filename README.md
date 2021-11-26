@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Flo4Git
+- 👀 I’m interested in lots of thing ;)
+- 🌱 I’m running my house with a Pi thanks to Domoticz and lots of devices
+- 💞️ I’m looking to build a photobooth with pibooth, this is my last project
